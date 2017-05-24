@@ -1,5 +1,5 @@
 # Basic
-title: Vno Jekyll
+title: Jiang wenqiang
 subtitle: A blog-orientation theme for Jekyll
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: no
+    github: no
+    twitter: no
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 360920474@qq.com
 
 # Google Analytics
 ga:
