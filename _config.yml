@@ -1,11 +1,11 @@
 # Basic
 title: Jiang wenqiang
-subtitle: A blog-orientation theme for Jiang wenqiang
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: this is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+subtitle: A blog for Jiang wenqiang
+welcome_message: <a href="https://github.com/jiangwqcooler" target="_blank">visit my github</a>
+description: A girl surnamed li laugh at my Engilsh, so ,my blob must write in English, AUGMENT!AUGMENT!AUGMENT!  
+creator: <a href="www.jiangwq.me">@Mr. Jiang</a>
 
-url: "http://vno.onevcat.com"
+url: "http://www.jiangwq.me"
 
 permalink: /:year/:month/:title/
 
@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: Jiang wenqiang
     # duoshuo: 
     
 # Social
